@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=UPS Tray
+Comment=UPS status, history and notifications
+Comment[tr]=UPS durumu, geçmiş ve bildirimler
+Exec=ups-tray --show
+Icon=ups-tray
+Terminal=false
+Categories=System;Monitor;
